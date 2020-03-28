@@ -1,3 +1,9 @@
+## Links
+https://hub.helm.sh/charts/jetstack/cert-manager
+https://opensource.com/article/20/3/ssl-letsencrypt-k3s
+
+## Steps
+
 1.
     kubectl apply --validate=false -f https://github.com/jetstack/cert-manager/releases/download/v0.14.1/cert-manager.crds.yaml
 
