@@ -11,3 +11,5 @@
     helm install cert-manager --namespace cert-manager jetstack/cert-manager
 
 5.
+    kubectl apply -f ./lets-encrypt.issuer.yml
+
